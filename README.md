@@ -1,0 +1,1 @@
+利用Turtle graphics繪製多拉Ａ夢的頭
